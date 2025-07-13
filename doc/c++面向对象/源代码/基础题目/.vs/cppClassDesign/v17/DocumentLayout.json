@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\cpp\\cppClassDesign\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|solutionrelative:cppClassDesign\\5.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|solutionrelative:cppClassDesign\\5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|solutionrelative:cppClassDesign\\4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|solutionrelative:cppClassDesign\\3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|solutionrelative:cppClassDesign\\2.2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|solutionrelative:cppClassDesign\\1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{473DF401-72E2-4F68-9414-AAA94448BB0B}|cppClassDesign\\cppClassDesign.vcxproj|solutionrelative:cppClassDesign\\2.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "5.2.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\5.2.cpp",
+              "RelativeDocumentMoniker": "cppClassDesign\\5.2.cpp",
+              "ToolTip": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\5.2.cpp",
+              "RelativeToolTip": "cppClassDesign\\5.2.cpp",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAC8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-05T07:04:02.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "5.1.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\5.1.cpp",
+              "RelativeDocumentMoniker": "cppClassDesign\\5.1.cpp",
+              "ToolTip": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\5.1.cpp",
+              "RelativeToolTip": "cppClassDesign\\5.1.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T16:01:06.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "4.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\4.cpp",
+              "RelativeDocumentMoniker": "cppClassDesign\\4.cpp",
+              "ToolTip": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\4.cpp",
+              "RelativeToolTip": "cppClassDesign\\4.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-25T14:37:39.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "3.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\3.cpp",
+              "RelativeDocumentMoniker": "cppClassDesign\\3.cpp",
+              "ToolTip": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\3.cpp",
+              "RelativeToolTip": "cppClassDesign\\3.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAwEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-22T02:44:57.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "2.2.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\2.2.cpp",
+              "RelativeDocumentMoniker": "cppClassDesign\\2.2.cpp",
+              "ToolTip": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\2.2.cpp",
+              "RelativeToolTip": "cppClassDesign\\2.2.cpp",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAAwHMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-20T09:12:13.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "2.1.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\2.1.cpp",
+              "RelativeDocumentMoniker": "cppClassDesign\\2.1.cpp",
+              "ToolTip": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\2.1.cpp",
+              "RelativeToolTip": "cppClassDesign\\2.1.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-19T03:10:50.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "1.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\1.cpp",
+              "RelativeDocumentMoniker": "cppClassDesign\\1.cpp",
+              "ToolTip": "D:\\coding\\cpp\\cppClassDesign\\cppClassDesign\\1.cpp",
+              "RelativeToolTip": "cppClassDesign\\1.cpp",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAwEQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T15:37:03.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

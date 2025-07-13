@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\cpp\\Network_Ecommer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Server.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Tourist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Tourist.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\ProductsIfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\ProductsIfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Products.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Products.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Comsumer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Comsumer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Business.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Business.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Tourist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Tourist.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Sheet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Sheet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Server.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\ProductsIfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\ProductsIfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Products.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Products.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Comsumer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Comsumer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Behavior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Behavior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Behavior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Behavior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Discaonut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\Discaonut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\sheet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{27697C37-BD21-4F08-80F4-BE8180759CE1}|Network_Ecommer\\Network_Ecommer.vcxproj|solutionrelative:Network_Ecommer\\sheet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sheet.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Sheet.h",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Sheet.h",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Sheet.h",
+              "RelativeToolTip": "Network_Ecommer\\Sheet.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T14:00:53.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tourist.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Tourist.h",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Tourist.h",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Tourist.h",
+              "RelativeToolTip": "Network_Ecommer\\Tourist.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T13:58:10.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "account.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\account.cpp",
+              "RelativeDocumentMoniker": "Network_Ecommer\\account.cpp",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\account.cpp",
+              "RelativeToolTip": "Network_Ecommer\\account.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T14:01:05.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Business.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Business.cpp",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Business.cpp",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Business.cpp",
+              "RelativeToolTip": "Network_Ecommer\\Business.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T14:01:29.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\main.cpp",
+              "RelativeDocumentMoniker": "Network_Ecommer\\main.cpp",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\main.cpp",
+              "RelativeToolTip": "Network_Ecommer\\main.cpp",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAABYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T13:56:23.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Products.cpp",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Products.cpp",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Products.cpp",
+              "RelativeToolTip": "Network_Ecommer\\Products.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T14:02:15.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsIfo.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\ProductsIfo.cpp",
+              "RelativeDocumentMoniker": "Network_Ecommer\\ProductsIfo.cpp",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\ProductsIfo.cpp",
+              "RelativeToolTip": "Network_Ecommer\\ProductsIfo.cpp",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T14:02:35.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Server.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Server.cpp",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Server.cpp",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Server.cpp",
+              "RelativeToolTip": "Network_Ecommer\\Server.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T13:56:41.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tourist.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Tourist.cpp",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Tourist.cpp",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Tourist.cpp",
+              "RelativeToolTip": "Network_Ecommer\\Tourist.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T13:58:20.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Client.cpp",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Client.cpp",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Client.cpp",
+              "RelativeToolTip": "Network_Ecommer\\Client.cpp",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAGoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T16:28:04.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Comsumer.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Comsumer.cpp",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Comsumer.cpp",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Comsumer.cpp",
+              "RelativeToolTip": "Network_Ecommer\\Comsumer.cpp",
+              "ViewState": "AQIAAL8AAAAAAAAAAADwv8oAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T14:02:06.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductsIfo.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\ProductsIfo.h",
+              "RelativeDocumentMoniker": "Network_Ecommer\\ProductsIfo.h",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\ProductsIfo.h",
+              "RelativeToolTip": "Network_Ecommer\\ProductsIfo.h",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAwCIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T14:00:41.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Products.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Products.h",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Products.h",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Products.h",
+              "RelativeToolTip": "Network_Ecommer\\Products.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAtwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T14:00:30.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Server.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Server.h",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Server.h",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Server.h",
+              "RelativeToolTip": "Network_Ecommer\\Server.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T13:56:35.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Comsumer.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Comsumer.h",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Comsumer.h",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Comsumer.h",
+              "RelativeToolTip": "Network_Ecommer\\Comsumer.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T14:00:05.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Behavior.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Behavior.h",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Behavior.h",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Behavior.h",
+              "RelativeToolTip": "Network_Ecommer\\Behavior.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-27T09:35:35.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "account.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\account.h",
+              "RelativeDocumentMoniker": "Network_Ecommer\\account.h",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\account.h",
+              "RelativeToolTip": "Network_Ecommer\\account.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T13:59:23.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Discaonut.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Discaonut.h",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Discaonut.h",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Discaonut.h",
+              "RelativeToolTip": "Network_Ecommer\\Discaonut.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T14:00:19.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Behavior.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Behavior.cpp",
+              "RelativeDocumentMoniker": "Network_Ecommer\\Behavior.cpp",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\Behavior.cpp",
+              "RelativeToolTip": "Network_Ecommer\\Behavior.cpp",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T14:01:19.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "sheet.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\sheet.cpp",
+              "RelativeDocumentMoniker": "Network_Ecommer\\sheet.cpp",
+              "ToolTip": "D:\\coding\\cpp\\Network_Ecommer\\Network_Ecommer\\sheet.cpp",
+              "RelativeToolTip": "Network_Ecommer\\sheet.cpp",
+              "ViewState": "AQIAAEcAAAAAAAAAAADwv1UAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T14:02:47.78Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

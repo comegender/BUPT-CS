@@ -1,0 +1,53 @@
+000.000 =============================================================
+000.000                     Station A                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-05
+000.000 Log file "E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\EXE\NoPiggybackingGBN-A.log", TCP port 59144, debug mask 0x03
+000.000 Station A is waiting for station B on TCP port 59144 ... Done.
+000.425 New epoch: Fri May  9 23:47:16 2025
+000.425 =================================================================
+000.426 
+000.426 Designed by Jiang Yanjun, build: May  9 2025  23:46:26
+000.426 Send DATA 0 15, ID 10000,windows 1,PHL Queue 0
+000.677 Send DATA 1 15, ID 10001,windows 2,PHL Queue 26
+000.940 Send DATA 2 15, ID 10002,windows 3,PHL Queue 28
+001.194 Send DATA 3 15, ID 10003,windows 4,PHL Queue 48
+001.302 Recv ACK 0
+001.473 Send DATA 4 15, ID 10004,windows 4,PHL Queue 18
+001.565 Recv DATA 0 0, ID 20000
+001.566 Send ACK 0
+001.612 Recv ACK 1
+001.737 Send DATA 5 0, ID 10005,windows 4,PHL Queue 32
+001.875 Recv DATA 1 1, ID 20001
+001.876 Send ACK 1
+001.907 Recv ACK 2
+002.000 Send DATA 6 1, ID 10006,windows 4,PHL Queue 48
+002.138 Recv DATA 2 2, ID 20002
+002.138 Send ACK 2
+002.169 Recv ACK 3
+002.292 Send DATA 7 2, ID 10007,windows 4,PHL Queue 6
+002.401 **** Receiver Error, Bad CRC Checksum
+002.432 Recv ACK 4
+002.542 Send DATA 8 2, ID 10008,windows 4,PHL Queue 36
+002.696 Recv DATA 4 4, ID 20004
+002.696 Recv ACK 5
+002.805 Send DATA 9 2, ID 10009,windows 4,PHL Queue 36
+002.945 Recv DATA 5 5, ID 20005
+002.976 Recv ACK 6
+003.086 Send DATA 10 2, ID 10010,windows 4,PHL Queue 2
+003.240 Recv DATA 6 6, ID 20006
+003.242 Recv ACK 7
+003.333 Send DATA 11 2, ID 10011,windows 4,PHL Queue 36
+003.488 Recv DATA 7 7, ID 20007
+003.519 Recv ACK 8
+003.597 Send DATA 12 2, ID 10012,windows 4,PHL Queue 36
+003.768 Recv DATA 8 8, ID 20008
+003.798 Recv ACK 9
+003.861 Send DATA 13 2, ID 10013,windows 4,PHL Queue 36
+004.032 Recv DATA 3 9, ID 20003
+004.035 .... 4 packets received, 2993 bps, 37.41%, Err 1 (4.2e-05)
+004.036 Send ACK 3
+004.063 Recv ACK 10
+004.141 Send DATA 14 3, ID 10014,windows 4,PHL Queue 18
+004.281 TCP Disconnected.

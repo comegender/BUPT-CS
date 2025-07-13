@@ -1,0 +1,51 @@
+000.000 =============================================================
+000.000                     Station B                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-05
+000.000 Log file "E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\EXE\GBN-B.log", TCP port 59144, debug mask 0x03
+000.000 Station B is connecting station A (TCP port 59144) ... Done.
+000.649 New epoch: Fri May  9 23:40:59 2025
+000.650 =================================================================
+000.650 
+000.650 Designed by Jiang Yanjun, build: May  9 2025  23:38:43
+001.048 Send DATA 0 15, ID 20000,windows 1,PHL Queue 0
+001.261 Recv DATA 0 15, ID 10000
+001.278 Send DATA 1 0, ID 20001,windows 2,PHL Queue 36
+001.478 Recv DATA 1 15, ID 10001
+001.539 Send DATA 2 1, ID 20002,windows 3,PHL Queue 42
+001.755 Recv DATA 2 15, ID 10002
+001.802 Send DATA 3 2, ID 20003,windows 4,PHL Queue 44
+001.993 Recv DATA 3 15, ID 10003
+002.086 Send DATA 4 3, ID 20004,windows 5,PHL Queue 4
+002.256 Recv DATA 4 0, ID 10004
+002.350 Send DATA 5 4, ID 20005,windows 5,PHL Queue 4
+002.534 Recv DATA 5 1, ID 10005
+002.596 Send DATA 6 5, ID 20006,windows 5,PHL Queue 40
+002.796 Recv DATA 6 2, ID 10006
+002.858 Send DATA 7 6, ID 20007,windows 5,PHL Queue 44
+003.060 Recv DATA 7 2, ID 10007
+003.068 .... 8 packets received, 7710 bps, 96.38%, Err 0 (0.0e+00)
+003.122 Send DATA 8 7, ID 20008,windows 6,PHL Queue 44
+003.337 Recv DATA 8 2, ID 10008
+003.384 ---- DATA 3 timeout
+003.384 Send DATA 3 8, ID 20003,windows 6,PHL Queue 48
+003.570 Recv DATA 9 2, ID 10009
+003.648 Send DATA 4 9, ID 20004,windows 6,PHL Queue 48
+003.868 Recv DATA 10 2, ID 10010
+003.916 Send DATA 5 10, ID 20005,windows 6,PHL Queue 40
+004.120 Recv DATA 11 2, ID 10011
+004.182 Send DATA 6 11, ID 20006,windows 6,PHL Queue 36
+004.386 Recv DATA 12 2, ID 10012
+004.450 Send DATA 7 12, ID 20007,windows 6,PHL Queue 28
+004.697 Recv DATA 13 3, ID 10013
+004.727 Send DATA 8 13, ID 20008,windows 5,PHL Queue 2
+004.912 Recv DATA 14 4, ID 10014
+004.976 Send DATA 9 14, ID 20009,windows 5,PHL Queue 32
+005.174 Recv DATA 15 5, ID 10015
+005.175 .... 16 packets received, 7730 bps, 96.63%, Err 0 (0.0e+00)
+005.238 Send DATA 10 15, ID 20010,windows 5,PHL Queue 36
+005.426 Recv DATA 0 6, ID 10016
+005.519 Send DATA 11 0, ID 20011,windows 5,PHL Queue 2
+005.691 Recv DATA 1 7, ID 10017
+005.692 TCP Disconnected.

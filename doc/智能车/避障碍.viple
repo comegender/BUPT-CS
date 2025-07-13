@@ -1,0 +1,1504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Program xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="/ StateFileSchema.xsd" VIPLE_Type="1">
+  <Version>4.0.0.1</Version>
+  <ProgrammingPanel Name="Main">
+    <Variables />
+    <Activity IsFlipped="false">
+      <ActivityNameInt>23</ActivityNameInt>
+      <ActivityID>226</ActivityID>
+      <PreviousActivities />
+      <NextActivities>
+        <ActivityID>228</ActivityID>
+        <ActivityID>232</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines />
+      <OutgoingLines>
+        <GraphEdgeID>232</GraphEdgeID>
+        <GraphEdgeID>233</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>7.66666666666652</Left>
+        <Top>169.853333333333</Top>
+      </Location>
+      <Values>
+        <Value Index="0">机器人主机 0</Value>
+        <Value Index="1">4</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>19</ActivityNameInt>
+      <ActivityID>227</ActivityID>
+      <PreviousActivities />
+      <NextActivities />
+      <AlternateNextActivities />
+      <IncomingLines />
+      <OutgoingLines />
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>4.33333333333326</Left>
+        <Top>17.1866666666667</Top>
+      </Location>
+      <Values>
+        <Value Index="0">192.168.0.1</Value>
+        <Value Index="1">9999</Value>
+        <Value Index="2">WiFi</Value>
+        <Value Index="3">3000</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>6</ActivityNameInt>
+      <ActivityID>228</ActivityID>
+      <PreviousActivities>
+        <ActivityID>226</ActivityID>
+      </PreviousActivities>
+      <NextActivities Index="0">
+        <ActivityID>229</ActivityID>
+        <ActivityID>237</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>232</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines Index="0">
+        <GraphEdgeID>234</GraphEdgeID>
+        <GraphEdgeID>235</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>196.333333333333</Left>
+        <Top>127.186666666667</Top>
+      </Location>
+      <Values>
+        <Value Index="0">value&lt;=20</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>229</ActivityID>
+      <PreviousActivities>
+        <ActivityID>228</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>230</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>234</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>236</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>360.333333333333</Left>
+        <Top>35.8533333333334</Top>
+      </Location>
+      <Values>
+        <Value>0.8</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>4</ActivityNameInt>
+      <ActivityID>230</ActivityID>
+      <PreviousActivities Index="0">
+        <ActivityID>229</ActivityID>
+      </PreviousActivities>
+      <PreviousActivities Index="1">
+        <ActivityID>237</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>231</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines Index="0">
+        <GraphEdgeID>236</GraphEdgeID>
+      </IncomingLines>
+      <IncomingLines Index="1">
+        <GraphEdgeID>237</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>238</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>512.333333333333</Left>
+        <Top>70.52</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>20</ActivityNameInt>
+      <ActivityID>231</ActivityID>
+      <PreviousActivities>
+        <ActivityID>230</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>238</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>238</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>239</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>662.333333333333</Left>
+        <Top>71.8533333333333</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+        <Value Index="2">机器人主机 0</Value>
+        <Value Index="3">6</Value>
+        <Value Index="4">3</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>2</ActivityNameInt>
+      <ActivityID>232</ActivityID>
+      <PreviousActivities>
+        <ActivityID>226</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>233</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>233</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>240</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>84.3333333333333</Left>
+        <Top>568.52</Top>
+      </Location>
+      <Values>
+        <Value>"距离"+value</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>28</ActivityNameInt>
+      <ActivityID>233</ActivityID>
+      <PreviousActivities>
+        <ActivityID>232</ActivityID>
+      </PreviousActivities>
+      <NextActivities />
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>240</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines />
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>237</Left>
+        <Top>624.52</Top>
+      </Location>
+      <Values>
+        <Value></Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>234</ActivityID>
+      <PreviousActivities>
+        <ActivityID>257</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>235</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>241</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>242</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>151.666666666667</Left>
+        <Top>339.186666666667</Top>
+      </Location>
+      <Values>
+        <Value>0.8</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>4</ActivityNameInt>
+      <ActivityID>235</ActivityID>
+      <PreviousActivities Index="0">
+        <ActivityID>234</ActivityID>
+      </PreviousActivities>
+      <PreviousActivities Index="1">
+        <ActivityID>251</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>236</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines Index="0">
+        <GraphEdgeID>242</GraphEdgeID>
+      </IncomingLines>
+      <IncomingLines Index="1">
+        <GraphEdgeID>243</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>244</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>318</Left>
+        <Top>496.186666666666</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>20</ActivityNameInt>
+      <ActivityID>236</ActivityID>
+      <PreviousActivities>
+        <ActivityID>235</ActivityID>
+      </PreviousActivities>
+      <NextActivities />
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>244</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines />
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>475</Left>
+        <Top>565.186666666666</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+        <Value Index="2">机器人主机 0</Value>
+        <Value Index="3">6</Value>
+        <Value Index="4">3</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>237</ActivityID>
+      <PreviousActivities>
+        <ActivityID>228</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>230</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>235</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>237</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>375</Left>
+        <Top>133.853333333333</Top>
+      </Location>
+      <Values>
+        <Value>-1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>238</ActivityID>
+      <PreviousActivities>
+        <ActivityID>231</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>239</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>239</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>245</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>792.333333333333</Left>
+        <Top>61.8533333333333</Top>
+      </Location>
+      <Values>
+        <Value>500</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>15</ActivityNameInt>
+      <ActivityID>239</ActivityID>
+      <PreviousActivities>
+        <ActivityID>238</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>246</ActivityID>
+        <ActivityID>252</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>245</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>246</GraphEdgeID>
+        <GraphEdgeID>247</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>920.333333333333</Left>
+        <Top>58.52</Top>
+      </Location>
+      <Values>
+        <Value></Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>240</ActivityID>
+      <PreviousActivities>
+        <ActivityID>250</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>242</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>248</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>249</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>702.333333333333</Left>
+        <Top>173.186666666667</Top>
+      </Location>
+      <Values>
+        <Value>-1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>241</ActivityID>
+      <PreviousActivities>
+        <ActivityID>250</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>242</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>250</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>251</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>712.333333333333</Left>
+        <Top>260.52</Top>
+      </Location>
+      <Values>
+        <Value>1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>4</ActivityNameInt>
+      <ActivityID>242</ActivityID>
+      <PreviousActivities Index="0">
+        <ActivityID>240</ActivityID>
+      </PreviousActivities>
+      <PreviousActivities Index="1">
+        <ActivityID>241</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>243</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines Index="0">
+        <GraphEdgeID>249</GraphEdgeID>
+      </IncomingLines>
+      <IncomingLines Index="1">
+        <GraphEdgeID>251</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>252</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>559.666666666667</Left>
+        <Top>209.186666666666</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>20</ActivityNameInt>
+      <ActivityID>243</ActivityID>
+      <PreviousActivities>
+        <ActivityID>242</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>244</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>252</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>253</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>431</Left>
+        <Top>222.52</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+        <Value Index="2">机器人主机 0</Value>
+        <Value Index="3">6</Value>
+        <Value Index="4">3</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>244</ActivityID>
+      <PreviousActivities>
+        <ActivityID>243</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>245</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>253</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>254</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>310.333333333333</Left>
+        <Top>223.853333333333</Top>
+      </Location>
+      <Values>
+        <Value>500</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>15</ActivityNameInt>
+      <ActivityID>245</ActivityID>
+      <PreviousActivities>
+        <ActivityID>244</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>253</ActivityID>
+        <ActivityID>254</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>254</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>255</GraphEdgeID>
+        <GraphEdgeID>256</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>325.666666666666</Left>
+        <Top>320.52</Top>
+      </Location>
+      <Values>
+        <Value></Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>246</ActivityID>
+      <PreviousActivities>
+        <ActivityID>239</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>247</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>246</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>257</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>1244.33333333333</Left>
+        <Top>445.186666666666</Top>
+      </Location>
+      <Values>
+        <Value>1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>4</ActivityNameInt>
+      <ActivityID>247</ActivityID>
+      <PreviousActivities Index="0">
+        <ActivityID>246</ActivityID>
+      </PreviousActivities>
+      <PreviousActivities Index="1">
+        <ActivityID>252</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>248</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines Index="0">
+        <GraphEdgeID>257</GraphEdgeID>
+      </IncomingLines>
+      <IncomingLines Index="1">
+        <GraphEdgeID>258</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>259</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>1074.33333333333</Left>
+        <Top>512.52</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>20</ActivityNameInt>
+      <ActivityID>248</ActivityID>
+      <PreviousActivities>
+        <ActivityID>247</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>249</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>259</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>260</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>1077</Left>
+        <Top>421.853333333334</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+        <Value Index="2">机器人主机 0</Value>
+        <Value Index="3">6</Value>
+        <Value Index="4">3</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>249</ActivityID>
+      <PreviousActivities>
+        <ActivityID>248</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>250</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>260</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>261</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>1195.66666666667</Left>
+        <Top>339.853333333333</Top>
+      </Location>
+      <Values>
+        <Value>2000</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>15</ActivityNameInt>
+      <ActivityID>250</ActivityID>
+      <PreviousActivities>
+        <ActivityID>249</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>240</ActivityID>
+        <ActivityID>241</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>261</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>248</GraphEdgeID>
+        <GraphEdgeID>250</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>1237</Left>
+        <Top>220.52</Top>
+      </Location>
+      <Values>
+        <Value></Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>251</ActivityID>
+      <PreviousActivities>
+        <ActivityID>257</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>235</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>262</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>243</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>163</Left>
+        <Top>434.52</Top>
+      </Location>
+      <Values>
+        <Value>1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>252</ActivityID>
+      <PreviousActivities>
+        <ActivityID>239</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>247</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>247</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>258</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>1250.33333333333</Left>
+        <Top>569.186666666667</Top>
+      </Location>
+      <Values>
+        <Value>1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>253</ActivityID>
+      <PreviousActivities>
+        <ActivityID>245</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>255</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>255</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>263</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>461</Left>
+        <Top>319.853333333333</Top>
+      </Location>
+      <Values>
+        <Value>0.8</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>254</ActivityID>
+      <PreviousActivities>
+        <ActivityID>245</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>255</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>256</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>264</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>471.333333333333</Left>
+        <Top>417.52</Top>
+      </Location>
+      <Values>
+        <Value>1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>4</ActivityNameInt>
+      <ActivityID>255</ActivityID>
+      <PreviousActivities Index="0">
+        <ActivityID>253</ActivityID>
+      </PreviousActivities>
+      <PreviousActivities Index="1">
+        <ActivityID>254</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>256</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines Index="0">
+        <GraphEdgeID>263</GraphEdgeID>
+      </IncomingLines>
+      <IncomingLines Index="1">
+        <GraphEdgeID>264</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>265</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>600.666666666667</Left>
+        <Top>358.186666666666</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>20</ActivityNameInt>
+      <ActivityID>256</ActivityID>
+      <PreviousActivities>
+        <ActivityID>255</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>258</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>265</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>266</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>719.666666666666</Left>
+        <Top>377.853333333333</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+        <Value Index="2">机器人主机 0</Value>
+        <Value Index="3">6</Value>
+        <Value Index="4">3</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>13</ActivityNameInt>
+      <ActivityID>257</ActivityID>
+      <PreviousActivities />
+      <NextActivities>
+        <ActivityID>234</ActivityID>
+        <ActivityID>251</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines />
+      <OutgoingLines>
+        <GraphEdgeID>241</GraphEdgeID>
+        <GraphEdgeID>262</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>0</Left>
+        <Top>374.52</Top>
+      </Location>
+      <Values>
+        <Value Index="0">22</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>258</ActivityID>
+      <PreviousActivities>
+        <ActivityID>256</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>259</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>266</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>267</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>743</Left>
+        <Top>485.186666666667</Top>
+      </Location>
+      <Values>
+        <Value>2000</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>15</ActivityNameInt>
+      <ActivityID>259</ActivityID>
+      <PreviousActivities>
+        <ActivityID>258</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>260</ActivityID>
+        <ActivityID>261</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>267</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>268</GraphEdgeID>
+        <GraphEdgeID>269</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>668.333333333333</Left>
+        <Top>589.853333333333</Top>
+      </Location>
+      <Values>
+        <Value></Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>260</ActivityID>
+      <PreviousActivities>
+        <ActivityID>259</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>262</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>268</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>270</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>829.666666666667</Left>
+        <Top>577.186666666667</Top>
+      </Location>
+      <Values>
+        <Value>-1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>261</ActivityID>
+      <PreviousActivities>
+        <ActivityID>259</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>262</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>269</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>271</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>817.666666666667</Left>
+        <Top>666.52</Top>
+      </Location>
+      <Values>
+        <Value>1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>4</ActivityNameInt>
+      <ActivityID>262</ActivityID>
+      <PreviousActivities Index="0">
+        <ActivityID>260</ActivityID>
+      </PreviousActivities>
+      <PreviousActivities Index="1">
+        <ActivityID>261</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>263</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines Index="0">
+        <GraphEdgeID>270</GraphEdgeID>
+      </IncomingLines>
+      <IncomingLines Index="1">
+        <GraphEdgeID>271</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>272</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>980.110850439883</Left>
+        <Top>634.926666666666</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>20</ActivityNameInt>
+      <ActivityID>263</ActivityID>
+      <PreviousActivities>
+        <ActivityID>262</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>264</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>272</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>273</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>1110.77751710655</Left>
+        <Top>766.26</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+        <Value Index="2">机器人主机 0</Value>
+        <Value Index="3">6</Value>
+        <Value Index="4">3</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>264</ActivityID>
+      <PreviousActivities>
+        <ActivityID>263</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>265</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>273</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>274</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>945.331964809384</Left>
+        <Top>771.593333333333</Top>
+      </Location>
+      <Values>
+        <Value>500</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>15</ActivityNameInt>
+      <ActivityID>265</ActivityID>
+      <PreviousActivities>
+        <ActivityID>264</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>267</ActivityID>
+        <ActivityID>266</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>274</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>275</GraphEdgeID>
+        <GraphEdgeID>276</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>801.99863147605</Left>
+        <Top>766.259999999999</Top>
+      </Location>
+      <Values>
+        <Value></Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>266</ActivityID>
+      <PreviousActivities>
+        <ActivityID>265</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>268</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>276</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>277</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>669.998631476051</Left>
+        <Top>680.666666666666</Top>
+      </Location>
+      <Values>
+        <Value>0.8</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>267</ActivityID>
+      <PreviousActivities>
+        <ActivityID>265</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>268</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>275</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>278</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>664.665298142718</Left>
+        <Top>769.593333333333</Top>
+      </Location>
+      <Values>
+        <Value>1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>4</ActivityNameInt>
+      <ActivityID>268</ActivityID>
+      <PreviousActivities Index="0">
+        <ActivityID>266</ActivityID>
+      </PreviousActivities>
+      <PreviousActivities Index="1">
+        <ActivityID>267</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>269</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines Index="0">
+        <GraphEdgeID>277</GraphEdgeID>
+      </IncomingLines>
+      <IncomingLines Index="1">
+        <GraphEdgeID>278</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>279</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>519.998631476051</Left>
+        <Top>721.333333333333</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>20</ActivityNameInt>
+      <ActivityID>269</ActivityID>
+      <PreviousActivities>
+        <ActivityID>268</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>270</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>279</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>280</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>381.998631476051</Left>
+        <Top>734</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+        <Value Index="2">机器人主机 0</Value>
+        <Value Index="3">6</Value>
+        <Value Index="4">3</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>270</ActivityID>
+      <PreviousActivities>
+        <ActivityID>269</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>271</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>280</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>281</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>231.998631476051</Left>
+        <Top>728.666666666666</Top>
+      </Location>
+      <Values>
+        <Value>2000</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>15</ActivityNameInt>
+      <ActivityID>271</ActivityID>
+      <PreviousActivities>
+        <ActivityID>270</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>272</ActivityID>
+        <ActivityID>273</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>281</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>282</GraphEdgeID>
+        <GraphEdgeID>283</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>242.665298142717</Left>
+        <Top>825.333333333333</Top>
+      </Location>
+      <Values>
+        <Value></Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>272</ActivityID>
+      <PreviousActivities>
+        <ActivityID>271</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>274</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>282</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>284</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>407.998631476051</Left>
+        <Top>822.666666666666</Top>
+      </Location>
+      <Values>
+        <Value>1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>273</ActivityID>
+      <PreviousActivities>
+        <ActivityID>271</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>274</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>283</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>285</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>409.331964809384</Left>
+        <Top>936.666666666665</Top>
+      </Location>
+      <Values>
+        <Value>-1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>4</ActivityNameInt>
+      <ActivityID>274</ActivityID>
+      <PreviousActivities Index="0">
+        <ActivityID>272</ActivityID>
+      </PreviousActivities>
+      <PreviousActivities Index="1">
+        <ActivityID>273</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>275</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines Index="0">
+        <GraphEdgeID>284</GraphEdgeID>
+      </IncomingLines>
+      <IncomingLines Index="1">
+        <GraphEdgeID>285</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>286</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>563.998631476051</Left>
+        <Top>862.406666666665</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>20</ActivityNameInt>
+      <ActivityID>275</ActivityID>
+      <PreviousActivities>
+        <ActivityID>274</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>276</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>286</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>287</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>709.331964809384</Left>
+        <Top>883.073333333332</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+        <Value Index="2">机器人主机 0</Value>
+        <Value Index="3">6</Value>
+        <Value Index="4">3</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>276</ActivityID>
+      <PreviousActivities>
+        <ActivityID>275</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>277</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>287</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>288</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>873.780449657869</Left>
+        <Top>882.406666666665</Top>
+      </Location>
+      <Values>
+        <Value>500</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="false">
+      <ActivityNameInt>15</ActivityNameInt>
+      <ActivityID>277</ActivityID>
+      <PreviousActivities>
+        <ActivityID>276</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>278</ActivityID>
+        <ActivityID>279</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>288</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>289</GraphEdgeID>
+        <GraphEdgeID>290</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>1023.1137829912</Left>
+        <Top>881.739999999999</Top>
+      </Location>
+      <Values>
+        <Value></Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>278</ActivityID>
+      <PreviousActivities>
+        <ActivityID>277</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>280</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>289</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>291</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>1049.78044965787</Left>
+        <Top>987.739999999999</Top>
+      </Location>
+      <Values>
+        <Value>0.8</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>3</ActivityNameInt>
+      <ActivityID>279</ActivityID>
+      <PreviousActivities>
+        <ActivityID>277</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>280</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>290</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>292</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>1050.44711632454</Left>
+        <Top>1113.07333333333</Top>
+      </Location>
+      <Values>
+        <Value>1</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>4</ActivityNameInt>
+      <ActivityID>280</ActivityID>
+      <PreviousActivities Index="0">
+        <ActivityID>278</ActivityID>
+      </PreviousActivities>
+      <PreviousActivities Index="1">
+        <ActivityID>279</ActivityID>
+      </PreviousActivities>
+      <NextActivities>
+        <ActivityID>281</ActivityID>
+      </NextActivities>
+      <AlternateNextActivities />
+      <IncomingLines Index="0">
+        <GraphEdgeID>291</GraphEdgeID>
+      </IncomingLines>
+      <IncomingLines Index="1">
+        <GraphEdgeID>292</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines>
+        <GraphEdgeID>293</GraphEdgeID>
+      </OutgoingLines>
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>893.780449657869</Left>
+        <Top>1050.81333333333</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+      </Values>
+    </Activity>
+    <Activity IsFlipped="true">
+      <ActivityNameInt>20</ActivityNameInt>
+      <ActivityID>281</ActivityID>
+      <PreviousActivities>
+        <ActivityID>280</ActivityID>
+      </PreviousActivities>
+      <NextActivities />
+      <AlternateNextActivities />
+      <IncomingLines>
+        <GraphEdgeID>293</GraphEdgeID>
+      </IncomingLines>
+      <OutgoingLines />
+      <AlternateOutgoingLines />
+      <Location>
+        <Left>725.113782991203</Left>
+        <Top>1064.81333333333</Top>
+      </Location>
+      <Values>
+        <Value Index="0">leftwheel</Value>
+        <Value Index="1">rightwheel</Value>
+        <Value Index="2">机器人主机 0</Value>
+        <Value Index="3">6</Value>
+        <Value Index="4">3</Value>
+      </Values>
+    </Activity>
+  </ProgrammingPanel>
+  <Variables />
+  <UsedCustomActivityNames />
+</Program>

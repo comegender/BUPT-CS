@@ -1,0 +1,48 @@
+000.000 =============================================================
+000.000                     Station A                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-05
+000.000 Log file "E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\EXE\GBN-A.log", TCP port 59144, debug mask 0x03
+000.000 Station A is waiting for station B on TCP port 59144 ... Done.
+000.650 New epoch: Fri May  9 23:40:59 2025
+000.650 =================================================================
+000.650 
+000.650 Designed by Jiang Yanjun, build: May  9 2025  23:38:43
+000.655 Send DATA 0 15, ID 10000,windows 1,PHL Queue 0
+000.909 Send DATA 1 15, ID 10001,windows 2,PHL Queue 10
+001.155 Send DATA 2 15, ID 10002,windows 3,PHL Queue 46
+001.433 Send DATA 3 15, ID 10003,windows 4,PHL Queue 18
+001.586 Recv DATA 0 15, ID 20000
+001.710 Send DATA 4 0, ID 10004,windows 5,PHL Queue 0
+001.849 Recv DATA 1 0, ID 20001
+001.961 Send DATA 5 1, ID 10005,windows 5,PHL Queue 18
+002.132 Recv DATA 2 1, ID 20002
+002.210 Send DATA 6 2, ID 10006,windows 5,PHL Queue 48
+002.395 **** Receiver Error, Bad CRC Checksum
+002.504 Send DATA 7 2, ID 10007,windows 6,PHL Queue 0
+002.627 Recv DATA 4 3, ID 20004
+002.750 Send DATA 8 2, ID 10008,windows 5,PHL Queue 34
+002.888 Recv DATA 5 4, ID 20005
+003.030 Send DATA 9 2, ID 10009,windows 5,PHL Queue 2
+003.168 Recv DATA 6 5, ID 20006
+003.275 Send DATA 10 2, ID 10010,windows 5,PHL Queue 40
+003.446 Recv DATA 7 6, ID 20007
+003.554 Send DATA 11 2, ID 10011,windows 5,PHL Queue 10
+003.681 Recv DATA 8 7, ID 20008
+003.806 Send DATA 12 2, ID 10012,windows 5,PHL Queue 34
+003.962 Recv DATA 3 8, ID 20003
+003.963 .... 4 packets received, 3083 bps, 38.54%, Err 1 (4.3e-05)
+004.074 Send DATA 13 3, ID 10013,windows 5,PHL Queue 26
+004.244 Recv DATA 4 9, ID 20004
+004.338 Send DATA 14 4, ID 10014,windows 5,PHL Queue 26
+004.482 Recv DATA 5 10, ID 20005
+004.604 Send DATA 15 5, ID 10015,windows 5,PHL Queue 22
+004.804 Recv DATA 6 11, ID 20006
+004.865 Send DATA 0 6, ID 10016,windows 5,PHL Queue 28
+005.036 Recv DATA 7 12, ID 20007
+005.143 Send DATA 1 7, ID 10017,windows 5,PHL Queue 0
+005.301 Recv DATA 8 13, ID 20008
+005.394 Send DATA 2 8, ID 10018,windows 5,PHL Queue 26
+005.596 Recv DATA 9 14, ID 20009
+005.660 Send DATA 3 9, ID 10019,windows 5,PHL Queue 22

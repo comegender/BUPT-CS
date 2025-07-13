@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\datalink.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|solutionrelative:datalink.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\protocol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|solutionrelative:protocol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|solutionrelative:protocol.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\datalink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:datalink.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\lprintf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|solutionrelative:lprintf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\getopt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84955CB8-B78C-49A9-90E8-6060BF141C98}|datalink.vcxproj|solutionrelative:getopt.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "protocol.c",
+              "DocumentMoniker": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\protocol.c",
+              "RelativeDocumentMoniker": "protocol.c",
+              "ToolTip": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\protocol.c",
+              "RelativeToolTip": "protocol.c",
+              "ViewState": "AQIAAH4BAAAAAAAAAAA4wIsBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-08T06:11:46.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "datalink.h",
+              "DocumentMoniker": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\datalink.h",
+              "RelativeDocumentMoniker": "datalink.h",
+              "ToolTip": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\datalink.h",
+              "RelativeToolTip": "datalink.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-30T16:01:53.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "datalink.c",
+              "DocumentMoniker": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\datalink.c",
+              "RelativeDocumentMoniker": "datalink.c",
+              "ToolTip": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\datalink.c",
+              "RelativeToolTip": "datalink.c",
+              "ViewState": "AQIAAKgAAAAAAAAAAAAIwL4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-30T03:13:56.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "protocol.h",
+              "DocumentMoniker": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\protocol.h",
+              "RelativeDocumentMoniker": "protocol.h",
+              "ToolTip": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\protocol.h",
+              "RelativeToolTip": "protocol.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-13T12:48:22.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lprintf.h",
+              "DocumentMoniker": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\lprintf.h",
+              "RelativeDocumentMoniker": "lprintf.h",
+              "ToolTip": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\lprintf.h",
+              "RelativeToolTip": "lprintf.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-13T12:48:20.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "getopt.h",
+              "DocumentMoniker": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\getopt.h",
+              "RelativeDocumentMoniker": "getopt.h",
+              "ToolTip": "E:\\BUPT\\doc\\\u8BA1\u7B97\u673A\u7F51\u7EDC\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E00 \u6ED1\u52A8\u7A97\u53E3\\exampledoc\\Lab1(Win\u002BLinux)(2)\\Lab1(Win\u002BLinux)\\Lab1-Windows-VS2017\\getopt.h",
+              "RelativeToolTip": "getopt.h",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-13T12:48:17.424Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

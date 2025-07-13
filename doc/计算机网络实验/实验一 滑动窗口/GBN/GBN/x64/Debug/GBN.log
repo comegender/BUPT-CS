@@ -1,0 +1,19 @@
+﻿  crc32.c
+  datalink.c
+  getopt.c
+  lprintf.c
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\datalink.c(118,64): warning C4020: “stop_timer”: 实参太多
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\datalink.c(123,28): warning C4087: “send_ack_frame”: 用“void”参数列表声明
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\lprintf.c(216,37): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\lprintf.c(221,10): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\lprintf.c(298,10): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\lprintf.c(353,41): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\lprintf.c(359,37): warning C4244: “函数”: 从“__int64”转换到“int”，可能丢失数据
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\lprintf.c(499,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  protocol.c
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\protocol.c(169,18): warning C4133: “函数”: 从“char [1024]”到“LPCWSTR”的类型不兼容
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\protocol.c(278,22): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\protocol.c(291,16): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\exampledoc\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\protocol.c(303,16): warning C4244: “=”: 从“SOCKET”转换到“int”，可能丢失数据
+  正在生成代码...
+  GBN.vcxproj -> E:\BUPT\doc\计算机网络实验\实验一 滑动窗口\GBN\x64\Debug\GBN.exe

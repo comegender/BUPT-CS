@@ -1,0 +1,56 @@
+﻿  dataStruct.c
+D:\desktop\计网课设\DNS\dataStruct.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\dataStruct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\default.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\system.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\server.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\dnsStruct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\dataStruct.c(141,33): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dataStruct.c(161,33): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+  dnsStruct.c
+D:\desktop\计网课设\DNS\dnsStruct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\default.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\system.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\server.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\dataStruct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\dnsStruct.c(67,20): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(76,26): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(77,25): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(78,26): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(79,25): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(68,17): warning C4267: “初始化”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(94,15): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(95,16): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(113,13): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(114,14): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(115,12): warning C4267: “=”: 从“size_t”转换到“uint32_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(116,17): warning C4267: “=”: 从“size_t”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(374,40): warning C4244: “=”: 从“time_t”转换到“int”，可能丢失数据
+D:\desktop\计网课设\DNS\dnsStruct.c(398,17): warning C4133: “初始化”: 从“dns_resource_record *”到“dns_question *”的类型不兼容
+  main.c
+D:\desktop\计网课设\DNS\system.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\server.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\default.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\dataStruct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\dnsStruct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  server.c
+D:\desktop\计网课设\DNS\server.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\server.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\default.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\dataStruct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\system.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\dnsStruct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\server.c(142,14): warning C4244: “=”: 从“u_long”转换到“uint16_t”，可能丢失数据
+D:\desktop\计网课设\DNS\server.c(160,17): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\desktop\计网课设\DNS\server.c(180,10): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+D:\desktop\计网课设\DNS\server.c(180,10): warning C4313: "printf": 格式字符串中的 "%s" 与类型为 "int" 的参数 1 冲突
+  system.c
+D:\desktop\计网课设\DNS\system.c(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\system.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\server.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\default.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\dataStruct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\desktop\计网课设\DNS\dnsStruct.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  正在生成代码...
+D:\desktop\计网课设\DNS\dnsStruct.c(43): warning C4715: “get_bits”: 不是所有的控件路径都返回值
+  DNS.vcxproj -> D:\desktop\计网课设\DNS\x64\Debug\DNS.exe

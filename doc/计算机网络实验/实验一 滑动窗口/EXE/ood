@@ -1,0 +1,16 @@
+000.000 =============================================================
+000.000                     Station A                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 0
+000.000 Log file "ood", TCP port 59144, debug mask 0x00
+000.000 Station A is waiting for station B on TCP port 59144 ... Done.
+000.320 New epoch: Sat May 17 19:23:38 2025
+000.321 =================================================================
+000.321 
+002.708 .... 8 packets received, 7736 bps, 96.69%, Err 0 (0.0e+00)
+004.830 .... 16 packets received, 7728 bps, 96.60%, Err 0 (0.0e+00)
+006.949 .... 24 packets received, 7730 bps, 96.62%, Err 0 (0.0e+00)
+009.054 .... 32 packets received, 7743 bps, 96.79%, Err 0 (0.0e+00)
+011.197 .... 40 packets received, 7723 bps, 96.54%, Err 0 (0.0e+00)
+012.918 TCP Disconnected.

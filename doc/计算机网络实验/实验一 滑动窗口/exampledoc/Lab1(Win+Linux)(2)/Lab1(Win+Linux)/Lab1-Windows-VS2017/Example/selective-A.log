@@ -1,0 +1,457 @@
+000.000 =============================================================
+000.000                     Station A                               
+000.000 -------------------------------------------------------------
+000.000 Protocol.lib, version 4.0, jiangyanjun0718@bupt.edu.cn
+000.000 Channel: 8000 bps, 270 ms propagation delay, bit error rate 1.0E-005
+000.000 Log file "E:\BUPT\doc\计算机网络实验\Lab1(Win+Linux)(2)\Lab1(Win+Linux)\Lab1-Windows-VS2017\Example\selective-A.log", TCP port 59144, debug mask 0x03
+000.000 Station A is waiting for station B on TCP port 59144 ... Done.
+000.846 New epoch: Wed May 07 11:36:44 2025
+000.847 =================================================================
+000.847 
+000.847 Designed by Jiang Yanjun, build: Oct 28 2018  16:37:15
+000.848 Send DATA  0 43, ID 10000, Window  1, PHL Queue 0
+001.090 Send DATA  1 43, ID 10001, Window  2, PHL Queue 44
+001.352 Send DATA  2 43, ID 10002, Window  3, PHL Queue 48
+001.585 Recv DATA  0 43, ID 20000, Window  0  22
+001.617 Send DATA  3  0, ID 10003, Window  4, PHL Queue 46
+001.864 Recv DATA  1 43, ID 20001, Window  1  23
+001.897 Send DATA  4  1, ID 10004, Window  5, PHL Queue 14
+002.158 Recv DATA  2  0, ID 20002, Window  2  24
+002.164 Send DATA  5  2, ID 10005, Window  5, PHL Queue 8
+002.390 Receiver Error 1: Bad CRC checksum
+002.391 Send NAK   2
+002.421 Send DATA  6  2, ID 10006, Window  6, PHL Queue 36
+002.629 Recv DATA  4  2, ID 20004, Window  3  25
+002.693 Send DATA  7  2, ID 10007, Window  5, PHL Queue 20
+002.896 Recv DATA  5  3, ID 20005, Window  3  25
+002.943 Send DATA  8  2, ID 10008, Window  5, PHL Queue 48
+003.146 Recv DATA  6  4, ID 20006, Window  3  25
+003.207 Send DATA  9  2, ID 10009, Window  5, PHL Queue 48
+003.457 Recv DATA  3  5, ID 20003, Window  3  25
+003.465 .... 4 packets received, 3796 bps, 47.45%, Err 1 (5.2e-005)
+003.468 Send ACK   6
+003.488 Send DATA 10  6, ID 10010, Window  5, PHL Queue 28
+003.705 Recv DATA  7  6, ID 20007, Window  7  29
+003.767 Send DATA 11  7, ID 10011, Window  5, PHL Queue 0
+003.958 Recv DATA  8  7, ID 20008, Window  8  30
+004.019 Send DATA 12  8, ID 10012, Window  5, PHL Queue 22
+004.223 Recv DATA  9  8, ID 20009, Window  9  31
+004.285 Send DATA 13  9, ID 10013, Window  5, PHL Queue 20
+004.469 Recv DATA 10  9, ID 20010, Window 10  32
+004.562 Send DATA 14 10, ID 10014, Window  5, PHL Queue 0
+004.748 Recv DATA 11 10, ID 20011, Window 11  33
+004.810 Send DATA 15 11, ID 10015, Window  5, PHL Queue 24
+005.011 Recv DATA 12 11, ID 20012, Window 12  34
+005.072 Send DATA 16 12, ID 10016, Window  5, PHL Queue 28
+005.276 Recv DATA 13 12, ID 20013, Window 13  35
+005.340 Send DATA 17 13, ID 10017, Window  5, PHL Queue 20
+005.526 Recv DATA 14 13, ID 20014, Window 14  36
+005.531 .... 15 packets received, 7268 bps, 90.84%, Err 1 (2.8e-005)
+005.620 Send DATA 18 14, ID 10018, Window  5, PHL Queue 0
+005.807 Recv DATA 15 14, ID 20015, Window 15  37
+005.854 Recv NAK  14
+005.857 Send DATA 15 15, ID 10015, Window  4, PHL Queue 80
+006.071 Recv DATA 16 14, ID 20016, Window 16  38
+006.133 Send DATA 19 16, ID 10019, Window  5, PHL Queue 18
+006.365 Recv DATA 17 14, ID 20017, Window 17  39
+006.396 Send DATA 20 17, ID 10020, Window  6, PHL Queue 20
+006.616 Recv DATA 18 14, ID 20018, Window 18  40
+006.647 Send DATA 21 18, ID 10021, Window  7, PHL Queue 46
+006.930 Recv DATA 19 14, ID 20019, Window 19  41
+006.937 Recv ACK  18
+006.938 Send DATA 22 19, ID 10022, Window  4, PHL Queue 0
+007.132 Recv DATA 20 18, ID 20020, Window 20  42
+007.194 Send DATA 23 20, ID 10023, Window  5, PHL Queue 8
+007.397 Recv DATA 21 19, ID 20021, Window 21  43
+007.459 Send DATA 24 21, ID 10024, Window  5, PHL Queue 6
+007.662 Recv DATA 22 20, ID 20022, Window 22   0
+007.666 .... 23 packets received, 7403 bps, 92.53%, Err 1 (1.9e-005)
+007.723 Send DATA 25 22, ID 10025, Window  5, PHL Queue 6
+007.906 Recv DATA 23 21, ID 20023, Window 23   1
+007.970 Send DATA 26 23, ID 10026, Window  5, PHL Queue 40
+008.204 Recv DATA 24 22, ID 20024, Window 24   2
+008.235 Send DATA 27 24, ID 10027, Window  5, PHL Queue 38
+008.451 Recv DATA 25 23, ID 20025, Window 25   3
+008.497 Send DATA 28 25, ID 10028, Window  5, PHL Queue 42
+008.730 Recv DATA 26 24, ID 20026, Window 26   4
+008.760 Send DATA 29 26, ID 10029, Window  5, PHL Queue 44
+008.977 Recv DATA 27 25, ID 20027, Window 27   5
+009.023 Send DATA 30 27, ID 10030, Window  5, PHL Queue 46
+009.256 Recv DATA 28 26, ID 20028, Window 28   6
+009.288 Send DATA 31 28, ID 10031, Window  5, PHL Queue 44
+009.535 Recv DATA 29 27, ID 20029, Window 29   7
+009.568 Send DATA 32 29, ID 10032, Window  5, PHL Queue 14
+009.797 Recv DATA 30 28, ID 20030, Window 30   8
+009.798 .... 31 packets received, 7471 bps, 93.39%, Err 1 (1.4e-005)
+009.828 Send DATA 33 30, ID 10033, Window  5, PHL Queue 20
+010.033 Recv DATA 31 29, ID 20031, Window 31   9
+010.079 Send DATA 34 31, ID 10034, Window  5, PHL Queue 46
+010.312 Recv DATA 32 30, ID 20032, Window 32  10
+010.344 Send DATA 35 32, ID 10035, Window  5, PHL Queue 44
+010.579 Recv DATA 33 31, ID 20033, Window 33  11
+010.610 Send DATA 36 33, ID 10036, Window  5, PHL Queue 40
+010.871 Recv DATA 34 32, ID 20034, Window 34  12
+010.875 Send DATA 37 34, ID 10037, Window  5, PHL Queue 38
+011.118 Recv DATA 35 33, ID 20035, Window 35  13
+011.150 Send DATA 38 35, ID 10038, Window  5, PHL Queue 16
+011.385 Recv DATA 36 34, ID 20036, Window 36  14
+011.417 Send DATA 39 36, ID 10039, Window  5, PHL Queue 12
+011.635 Recv DATA 37 35, ID 20037, Window 37  15
+011.667 Send DATA 40 37, ID 10040, Window  5, PHL Queue 38
+011.879 Recv DATA 38 36, ID 20038, Window 38  16
+011.882 .... 39 packets received, 7549 bps, 94.37%, Err 1 (1.2e-005)
+011.939 Send DATA 41 38, ID 10041, Window  5, PHL Queue 22
+012.155 Recv DATA 39 37, ID 20039, Window 39  17
+012.203 Send DATA 42 39, ID 10042, Window  5, PHL Queue 22
+012.449 Recv DATA 40 38, ID 20040, Window 40  18
+012.457 Send DATA 43 40, ID 10043, Window  5, PHL Queue 42
+012.727 Recv DATA 41 39, ID 20041, Window 41  19
+012.736 Send DATA  0 41, ID 10044, Window  5, PHL Queue 12
+012.960 Recv DATA 42 40, ID 20042, Window 42  20
+012.992 Send DATA  1 42, ID 10045, Window  5, PHL Queue 28
+013.200 Recv DATA 43 41, ID 20043, Window 43  21
+013.248 Send DATA  2 43, ID 10046, Window  5, PHL Queue 44
+013.526 Recv DATA  0 42, ID 20044, Window  0  22
+013.532 Send DATA  3  0, ID 10047, Window  5, PHL Queue 4
+013.743 Recv DATA  1 43, ID 20045, Window  1  23
+013.804 Send DATA  4  1, ID 10048, Window  5, PHL Queue 0
+014.019 Recv DATA  2  0, ID 20046, Window  2  24
+014.026 .... 47 packets received, 7567 bps, 94.59%, Err 1 (9.6e-006)
+014.049 Send DATA  5  2, ID 10049, Window  5, PHL Queue 26
+014.252 Recv DATA  3  1, ID 20047, Window  3  25
+014.314 Send DATA  6  3, ID 10050, Window  5, PHL Queue 24
+014.518 Recv DATA  4  2, ID 20048, Window  4  26
+014.580 Send DATA  7  4, ID 10051, Window  5, PHL Queue 20
+014.785 Recv DATA  5  3, ID 20049, Window  5  27
+014.848 Send DATA  8  5, ID 10052, Window  5, PHL Queue 12
+015.049 Recv DATA  6  4, ID 20050, Window  6  28
+015.113 Send DATA  9  6, ID 10053, Window  5, PHL Queue 12
+015.329 Recv DATA  7  5, ID 20051, Window  7  29
+015.360 Send DATA 10  7, ID 10054, Window  5, PHL Queue 44
+015.623 Recv DATA  8  6, ID 20052, Window  8  30
+015.627 Send DATA 11  8, ID 10055, Window  5, PHL Queue 38
+015.860 Recv DATA  9  7, ID 20053, Window  9  31
+015.890 Send DATA 12  9, ID 10056, Window  5, PHL Queue 40
+016.137 Recv DATA 10  8, ID 20054, Window 10  32
+016.139 .... 55 packets received, 7591 bps, 94.89%, Err 1 (8.3e-006)
+016.166 Send DATA 13 10, ID 10057, Window  5, PHL Queue 16
+016.367 Recv DATA 11  9, ID 20055, Window 11  33
+016.428 Send DATA 14 11, ID 10058, Window  5, PHL Queue 20
+016.644 Recv DATA 12 10, ID 20056, Window 12  34
+016.674 Recv NAK  10
+016.676 Send DATA 11 12, ID 10055, Window  4, PHL Queue 106
+016.897 Recv DATA 13 10, ID 20057, Window 13  35
+016.957 Send DATA 15 13, ID 10059, Window  5, PHL Queue 18
+017.176 Recv DATA 14 10, ID 20058, Window 14  36
+017.207 Send DATA 16 14, ID 10060, Window  6, PHL Queue 46
+017.471 Recv DATA 15 10, ID 20059, Window 15  37
+017.475 Send DATA 17 15, ID 10061, Window  7, PHL Queue 38
+017.705 Recv DATA 16 10, ID 20060, Window 16  38
+017.708 Recv ACK  14
+017.735 Send DATA 18 16, ID 10062, Window  4, PHL Queue 46
+017.980 Recv DATA 17 14, ID 20061, Window 17  39
+018.011 Send DATA 19 17, ID 10063, Window  5, PHL Queue 22
+018.259 Recv DATA 18 15, ID 20062, Window 18  40
+018.261 .... 63 packets received, 7608 bps, 95.09%, Err 1 (7.3e-006)
+018.262 Send DATA 20 18, ID 10064, Window  5, PHL Queue 48
+018.511 Recv DATA 19 16, ID 20063, Window 19  41
+018.543 Send DATA 21 19, ID 10065, Window  5, PHL Queue 14
+018.774 Recv DATA 20 17, ID 20064, Window 20  42
+018.804 Send DATA 22 20, ID 10066, Window  5, PHL Queue 20
+019.051 Recv DATA 21 18, ID 20065, Window 21  43
+019.054 Send DATA 23 21, ID 10067, Window  5, PHL Queue 48
+019.282 Recv DATA 22 19, ID 20066, Window 22   0
+019.344 Send DATA 24 22, ID 10068, Window  5, PHL Queue 0
+019.561 Recv DATA 23 20, ID 20067, Window 23   1
+019.593 Send DATA 25 23, ID 10069, Window  5, PHL Queue 26
+019.810 Recv DATA 24 21, ID 20068, Window 24   2
+019.858 Send DATA 26 24, ID 10070, Window  5, PHL Queue 24
+020.092 Recv DATA 25 22, ID 20069, Window 25   3
+020.124 Send DATA 27 25, ID 10071, Window  5, PHL Queue 20
+020.358 Recv DATA 26 23, ID 20070, Window 26   4
+020.364 .... 71 packets received, 7629 bps, 95.37%, Err 1 (6.5e-006)
+020.389 Send DATA 28 26, ID 10072, Window  5, PHL Queue 18
+020.635 Recv DATA 27 24, ID 20071, Window 27   5
+020.642 Send DATA 29 27, ID 10073, Window  5, PHL Queue 40
+020.929 Recv DATA 28 25, ID 20072, Window 28   6
+020.931 Send DATA 30 28, ID 10074, Window  5, PHL Queue 0
+021.144 Recv DATA 29 26, ID 20073, Window 29   7
+021.175 Send DATA 31 29, ID 10075, Window  5, PHL Queue 30
+021.425 Recv DATA 30 27, ID 20074, Window 30   8
+021.456 Send DATA 32 30, ID 10076, Window  5, PHL Queue 0
+021.674 Recv DATA 31 28, ID 20075, Window 31   9
+021.705 Send DATA 33 31, ID 10077, Window  5, PHL Queue 26
+021.954 Recv DATA 32 29, ID 20076, Window 32  10
+021.961 Send DATA 34 32, ID 10078, Window  5, PHL Queue 42
+022.202 Receiver Error 2: Bad CRC checksum
+022.203 Send NAK  32
+022.234 Send DATA 35 32, ID 10079, Window  6, PHL Queue 38
+022.472 Recv DATA 34 31, ID 20078, Window 33  11
+022.504 Recv NAK  31
+022.505 Send DATA 32 32, ID 10076, Window  4, PHL Queue 84
+022.737 Recv DATA 35 31, ID 20079, Window 33  11
+022.769 Send DATA 36 32, ID 10080, Window  5, PHL Queue 24
+023.001 Recv DATA 36 31, ID 20080, Window 33  11
+023.032 Send DATA 37 32, ID 10081, Window  6, PHL Queue 26
+023.250 Recv DATA 33 31, ID 20077, Window 33  11
+023.256 .... 78 packets received, 7277 bps, 90.97%, Err 2 (1.1e-005)
+023.261 Send ACK  36
+023.312 Send DATA 38 36, ID 10082, Window  7, PHL Queue 8
+023.526 Recv DATA 37 31, ID 20081, Window 37  15
+023.558 Recv ACK  35
+023.560 Send DATA 39 37, ID 10083, Window  4, PHL Queue 40
+023.779 Recv DATA 38 35, ID 20082, Window 38  16
+023.827 Recv NAK  35
+023.829 Send DATA 36 38, ID 10080, Window  4, PHL Queue 66
+024.092 Recv DATA 39 35, ID 20083, Window 39  17
+024.100 Send DATA 40 39, ID 10084, Window  5, PHL Queue 18
+024.326 Recv DATA 40 35, ID 20084, Window 40  18
+024.355 Send DATA 41 40, ID 10085, Window  6, PHL Queue 34
+024.602 Recv DATA 41 35, ID 20085, Window 41  19
+024.634 Send DATA 42 41, ID 10086, Window  7, PHL Queue 6
+024.881 Recv DATA 42 35, ID 20086, Window 42  20
+024.888 Send DATA 43 42, ID 10087, Window  8, PHL Queue 24
+024.912 Recv ACK  39
+025.133 Recv DATA 43 39, ID 20087, Window 43  21
+025.163 Send DATA  0 43, ID 10088, Window  5, PHL Queue 2
+025.424 Recv DATA  0 40, ID 20088, Window  0  22
+025.428 .... 89 packets received, 7555 bps, 94.44%, Err 2 (1.0e-005)
+025.432 Send DATA  1  0, ID 10089, Window  5, PHL Queue 0
+025.659 Recv DATA  1 41, ID 20089, Window  1  23
+025.689 Send DATA  2  1, ID 10090, Window  5, PHL Queue 6
+025.908 Recv DATA  2 42, ID 20090, Window  2  24
+025.940 Send DATA  3  2, ID 10091, Window  5, PHL Queue 32
+026.176 Recv DATA  3 43, ID 20091, Window  3  25
+026.208 Send DATA  4  3, ID 10092, Window  5, PHL Queue 24
+026.446 Recv DATA  4  0, ID 20092, Window  4  26
+026.476 Send DATA  5  4, ID 10093, Window  5, PHL Queue 16
+026.725 Send DATA  6  4, ID 10094, Window  6, PHL Queue 46
+026.728 Recv DATA  5  1, ID 20093, Window  5  27
+026.958 Recv DATA  6  2, ID 20094, Window  6  28
+026.989 Send DATA  7  6, ID 10095, Window  5, PHL Queue 46
+027.268 Recv DATA  7  3, ID 20095, Window  7  29
+027.276 Send DATA  8  7, ID 10096, Window  5, PHL Queue 0
+027.516 Recv DATA  8  4, ID 20096, Window  8  30
+027.517 .... 97 packets received, 7577 bps, 94.72%, Err 2 (9.5e-006)
+027.520 Send DATA  9  8, ID 10097, Window  5, PHL Queue 40
+027.784 Recv DATA  9  5, ID 20097, Window  9  31
+027.788 Send DATA 10  9, ID 10098, Window  5, PHL Queue 32
+028.035 Recv DATA 10  6, ID 20098, Window 10  32
+028.067 Send DATA 11 10, ID 10099, Window  5, PHL Queue 2
+028.313 Send DATA 12 10, ID 10100, Window  6, PHL Queue 38
+028.315 Recv DATA 11  7, ID 20099, Window 11  33
+028.576 Recv DATA 12  8, ID 20100, Window 12  34
+028.582 Send DATA 13 12, ID 10101, Window  5, PHL Queue 28
+028.825 Recv DATA 13  9, ID 20101, Window 13  35
+028.857 Send DATA 14 13, ID 10102, Window  5, PHL Queue 6
+029.096 Recv DATA 14 10, ID 20102, Window 14  36
+029.101 Send DATA 15 14, ID 10103, Window  5, PHL Queue 46
+029.390 Send DATA 16 14, ID 10104, Window  6, PHL Queue 0
+029.393 Receiver Error 3: Bad CRC checksum
+029.394 Send NAK  14
+029.625 Receiver Error 4: Bad CRC checksum
+029.656 Send DATA 17 14, ID 10105, Window  7, PHL Queue 6
+029.888 Recv DATA 17 13, ID 20105, Window 15  37
+029.919 Send DATA 18 14, ID 10106, Window  5, PHL Queue 8
+030.136 Recv DATA 18 14, ID 20106, Window 15  37
+030.168 Send DATA 19 14, ID 10107, Window  5, PHL Queue 38
+030.422 Recv DATA 19 15, ID 20107, Window 15  37
+030.428 Send DATA 20 14, ID 10108, Window  5, PHL Queue 46
+030.703 Recv DATA 15 16, ID 20103, Window 15  37
+030.705 .... 104 packets received, 7244 bps, 90.55%, Err 4 (1.7e-005)
+030.707 Send DATA 21 15, ID 10109, Window  5, PHL Queue 16
+030.950 Recv DATA 20 17, ID 20108, Window 16  38
+030.952 Send NAK  15
+030.981 Send DATA 22 15, ID 10110, Window  5, PHL Queue 18
+031.182 Recv DATA 21 18, ID 20109, Window 16  38
+031.245 Send DATA 23 15, ID 10111, Window  5, PHL Queue 18
+031.477 Recv DATA 22 19, ID 20110, Window 16  38
+031.508 Send DATA 24 15, ID 10112, Window  5, PHL Queue 20
+031.725 Recv DATA 23 20, ID 20111, Window 16  38
+031.787 Send DATA 25 15, ID 10113, Window  5, PHL Queue 0
+031.987 Recv DATA 16 21, ID 20104, Window 16  38
+031.993 Send ACK  23
+032.049 Send DATA 26 23, ID 10114, Window  5, PHL Queue 8
+032.266 Recv DATA 24 22, ID 20112, Window 24   2
+032.297 Send DATA 27 24, ID 10115, Window  5, PHL Queue 40
+032.564 Recv DATA 25 23, ID 20113, Window 25   3
+032.567 Send DATA 28 25, ID 10116, Window  5, PHL Queue 28
+032.781 Recv DATA 26 24, ID 20114, Window 26   4
+032.783 .... 115 packets received, 7481 bps, 93.51%, Err 4 (1.6e-005)
+032.842 Send DATA 29 26, ID 10117, Window  5, PHL Queue 6
+033.047 Recv DATA 27 25, ID 20115, Window 27   5
+033.107 Send DATA 30 27, ID 10118, Window  5, PHL Queue 4
+033.341 Recv DATA 28 26, ID 20116, Window 28   6
+033.373 Send DATA 31 28, ID 10119, Window  5, PHL Queue 0
+033.574 Recv DATA 29 27, ID 20117, Window 29   7
+033.620 Send DATA 32 29, ID 10120, Window  5, PHL Queue 34
+033.851 Recv DATA 30 28, ID 20118, Window 30   8
+033.882 Send DATA 33 30, ID 10121, Window  5, PHL Queue 38
+034.098 Recv DATA 31 29, ID 20119, Window 31   9
+034.146 Send DATA 34 31, ID 10122, Window  5, PHL Queue 38
+034.369 Recv DATA 32 30, ID 20120, Window 32  10
+034.416 Send DATA 35 32, ID 10123, Window  5, PHL Queue 26
+034.679 Recv DATA 33 31, ID 20121, Window 33  11
+034.686 Send DATA 36 33, ID 10124, Window  5, PHL Queue 14
+034.913 Recv DATA 34 32, ID 20122, Window 34  12
+034.916 .... 123 packets received, 7494 bps, 93.68%, Err 4 (1.5e-005)
+034.944 Send DATA 37 34, ID 10125, Window  5, PHL Queue 26
+035.145 Recv DATA 35 33, ID 20123, Window 35  13
+035.222 Send DATA 38 35, ID 10126, Window  5, PHL Queue 0
+035.425 Recv DATA 36 34, ID 20124, Window 36  14
+035.473 Send DATA 39 36, ID 10127, Window  5, PHL Queue 24
+035.707 Recv DATA 37 35, ID 20125, Window 37  15
+035.739 Recv NAK  35
+035.741 Send DATA 36 37, ID 10124, Window  4, PHL Queue 74
+035.975 Recv DATA 38 35, ID 20126, Window 38  16
+036.006 Send DATA 40 38, ID 10128, Window  5, PHL Queue 14
+036.270 Recv DATA 39 35, ID 20127, Window 39  17
+036.277 Send DATA 41 39, ID 10129, Window  6, PHL Queue 0
+036.486 Recv DATA 40 35, ID 20128, Window 40  18
+036.517 Send DATA 42 40, ID 10130, Window  7, PHL Queue 48
+036.764 Recv DATA 41 35, ID 20129, Window 41  19
+036.794 Recv ACK  37
+036.795 Send DATA 43 41, ID 10131, Window  6, PHL Queue 20
+037.058 Recv DATA 42 37, ID 20130, Window 42  20
+037.064 .... 131 packets received, 7503 bps, 93.78%, Err 4 (1.4e-005)
+037.066 Recv NAK  37
+037.067 Send DATA 38 42, ID 10126, Window  6, PHL Queue 82
+037.305 Recv DATA 43 37, ID 20131, Window 43  21
+037.310 Send DATA  0 43, ID 10132, Window  7, PHL Queue 46
+037.599 Recv DATA  0 37, ID 20132, Window  0  22
+037.604 Send DATA  1  0, ID 10133, Window  8, PHL Queue 0
+037.829 Recv DATA  1 37, ID 20133, Window  1  23
+037.861 Send DATA  2  1, ID 10134, Window  9, PHL Queue 0
+038.094 Recv DATA  2 37, ID 20134, Window  2  24
+038.126 Recv ACK  43
+038.127 Send DATA  3  2, ID 10135, Window  4, PHL Queue 0
+038.343 Recv DATA  3 43, ID 20135, Window  3  25
+038.376 Send DATA  4  3, ID 10136, Window  5, PHL Queue 28
+038.637 Recv DATA  4  0, ID 20136, Window  4  26
+038.643 Send DATA  5  4, ID 10137, Window  5, PHL Queue 20
+038.917 Recv DATA  5  1, ID 20137, Window  5  27
+038.921 Send DATA  6  5, ID 10138, Window  5, PHL Queue 0
+039.149 Recv DATA  6  2, ID 20138, Window  6  28
+039.155 .... 139 packets received, 7521 bps, 94.01%, Err 4 (1.3e-005)
+039.157 Send DATA  7  6, ID 10139, Window  5, PHL Queue 48
+039.396 Recv DATA  7  3, ID 20139, Window  7  29
+039.429 Send DATA  8  7, ID 10140, Window  5, PHL Queue 32
+039.699 Recv DATA  8  4, ID 20140, Window  8  30
+039.705 Send DATA  9  8, ID 10141, Window  5, PHL Queue 8
+039.960 Send DATA 10  8, ID 10142, Window  6, PHL Queue 26
+039.965 Recv DATA  9  5, ID 20141, Window  9  31
+040.211 Recv DATA 10  6, ID 20142, Window 10  32
+040.214 Send DATA 11 10, ID 10143, Window  5, PHL Queue 46
+040.491 Recv DATA 11  7, ID 20143, Window 11  33
+040.497 Send DATA 12 11, ID 10144, Window  5, PHL Queue 8
+040.721 Recv DATA 12  8, ID 20144, Window 12  34
+040.753 Send DATA 13 12, ID 10145, Window  5, PHL Queue 24
+041.021 Recv DATA 13  9, ID 20145, Window 13  35
+041.026 Send DATA 14 13, ID 10146, Window  5, PHL Queue 6
+041.254 Recv DATA 14 10, ID 20146, Window 14  36
+041.259 .... 147 packets received, 7535 bps, 94.19%, Err 4 (1.2e-005)
+041.286 Send DATA 15 14, ID 10147, Window  5, PHL Queue 14
+041.533 Recv DATA 15 11, ID 20147, Window 15  37
+041.540 Send DATA 16 15, ID 10148, Window  5, PHL Queue 34
+041.794 Recv DATA 16 12, ID 20148, Window 16  38
+041.826 Send DATA 17 16, ID 10149, Window  5, PHL Queue 0
+042.058 Recv DATA 17 13, ID 20149, Window 17  39
+042.065 Send DATA 18 17, ID 10150, Window  5, PHL Queue 40
+042.330 Recv DATA 18 14, ID 20150, Window 18  40
+042.334 Send DATA 19 18, ID 10151, Window  5, PHL Queue 30
+042.594 Send DATA 20 18, ID 10152, Window  6, PHL Queue 38
+042.597 Recv DATA 19 15, ID 20151, Window 19  41
+042.872 Recv DATA 20 16, ID 20152, Window 20  42
+042.876 Send DATA 21 20, ID 10153, Window  5, PHL Queue 2
+043.102 Recv DATA 21 17, ID 20153, Window 21  43
+043.133 Send DATA 22 21, ID 10154, Window  5, PHL Queue 16
+043.383 Recv DATA 22 18, ID 20154, Window 22   0
+043.390 .... 155 packets received, 7543 bps, 94.29%, Err 4 (1.2e-005)
+043.394 Send DATA 23 22, ID 10155, Window  5, PHL Queue 22
+043.649 Send DATA 24 22, ID 10156, Window  6, PHL Queue 40
+043.655 Recv DATA 23 19, ID 20155, Window 23   1
+043.913 Send DATA 25 23, ID 10157, Window  6, PHL Queue 40
+043.916 Recv DATA 24 20, ID 20156, Window 24   2
+044.192 Recv DATA 25 21, ID 20157, Window 25   3
+044.200 Send DATA 26 25, ID 10158, Window  5, PHL Queue 0
+044.423 Recv DATA 26 22, ID 20158, Window 26   4
+044.455 Send DATA 27 26, ID 10159, Window  5, PHL Queue 12
+044.690 Recv DATA 27 23, ID 20159, Window 27   5
+044.722 Send DATA 28 27, ID 10160, Window  5, PHL Queue 6
+044.954 Recv DATA 28 24, ID 20160, Window 28   6
+044.985 Recv NAK  24
+044.986 Send DATA 25 28, ID 10157, Window  4, PHL Queue 60
+045.232 Send DATA 29 28, ID 10161, Window  5, PHL Queue 42
+045.262 Recv DATA 29 24, ID 20161, Window 29   7
+045.495 Recv DATA 30 24, ID 20162, Window 30   8
+045.501 .... 163 packets received, 7553 bps, 94.42%, Err 4 (1.1e-005)
+045.505 Send DATA 30 30, ID 10162, Window  6, PHL Queue 24
+045.776 Send DATA 31 30, ID 10163, Window  7, PHL Queue 10
+045.780 Recv DATA 31 24, ID 20163, Window 31   9
+046.014 Recv DATA 32 24, ID 20164, Window 32  10
+046.046 Recv ACK  28
+046.048 Send DATA 32 32, ID 10164, Window  4, PHL Queue 0
+046.300 Send DATA 33 32, ID 10165, Window  5, PHL Queue 18
+046.332 Recv DATA 33 28, ID 20165, Window 33  11
+046.554 Send DATA 34 33, ID 10166, Window  6, PHL Queue 38
+046.586 Recv DATA 34 29, ID 20166, Window 34  12
+046.822 Send DATA 35 34, ID 10167, Window  6, PHL Queue 30
+046.825 Recv DATA 35 30, ID 20167, Window 35  13
+047.069 Recv DATA 36 31, ID 20168, Window 36  14
+047.100 Send DATA 36 36, ID 10168, Window  5, PHL Queue 2
+047.348 Send DATA 37 36, ID 10169, Window  6, PHL Queue 34
+047.380 Recv DATA 37 32, ID 20169, Window 37  15
+047.625 Recv DATA 38 33, ID 20170, Window 38  16
+047.629 .... 171 packets received, 7560 bps, 94.50%, Err 4 (1.1e-005)
+047.632 Send DATA 38 38, ID 10170, Window  5, PHL Queue 0
+047.877 Send DATA 39 38, ID 10171, Window  6, PHL Queue 32
+047.908 Recv DATA 39 34, ID 20171, Window 39  17
+048.141 Recv DATA 40 35, ID 20172, Window 40  18
+048.147 Send DATA 40 40, ID 10172, Window  5, PHL Queue 20
+048.424 Recv DATA 41 36, ID 20173, Window 41  19
+048.429 Send DATA 41 41, ID 10173, Window  5, PHL Queue 0
+048.676 Send DATA 42 41, ID 10174, Window  6, PHL Queue 18
+048.706 Recv DATA 42 37, ID 20174, Window 42  20
+048.954 Recv DATA 43 38, ID 20175, Window 43  21
+048.962 Send DATA 43 43, ID 10175, Window  5, PHL Queue 0
+049.201 Send DATA  0 43, ID 10176, Window  6, PHL Queue 24
+049.233 Recv DATA  0 39, ID 20176, Window  0  22
+049.452 Recv DATA  1 40, ID 20177, Window  1  23
+049.455 Send DATA  1  1, ID 10177, Window  5, PHL Queue 44
+049.746 Send DATA  2  1, ID 10178, Window  6, PHL Queue 0
+049.749 Recv DATA  2 41, ID 20178, Window  2  24
+049.751 .... 179 packets received, 7566 bps, 94.58%, Err 4 (1.0e-005)
+050.000 Recv DATA  3 42, ID 20179, Window  3  25
+050.003 Send DATA  3  3, ID 10179, Window  5, PHL Queue 4
+050.247 Send DATA  4  3, ID 10180, Window  6, PHL Queue 44
+050.278 Recv DATA  4 43, ID 20180, Window  4  26
+050.510 Send DATA  5  4, ID 10181, Window  6, PHL Queue 46
+050.515 Recv DATA  5  0, ID 20181, Window  5  27
+050.772 Recv DATA  6  1, ID 20182, Window  6  28
+050.778 Send DATA  6  6, ID 10182, Window  5, PHL Queue 38
+051.051 Recv DATA  7  2, ID 20183, Window  7  29
+051.052 Send DATA  7  7, ID 10183, Window  5, PHL Queue 18
+051.305 Recv DATA  8  3, ID 20184, Window  8  30
+051.309 Send DATA  8  8, ID 10184, Window  5, PHL Queue 32
+051.569 Send DATA  9  8, ID 10185, Window  6, PHL Queue 40
+051.572 Recv DATA  9  4, ID 20185, Window  9  31
+051.835 Recv DATA 10  5, ID 20186, Window 10  32
+051.838 .... 187 packets received, 7578 bps, 94.73%, Err 4 (9.8e-006)
+051.841 Send DATA 10 10, ID 10186, Window  5, PHL Queue 24
+052.101 Recv DATA 11  6, ID 20187, Window 11  33
+052.104 Send DATA 11 11, ID 10187, Window  5, PHL Queue 26
+052.377 Recv DATA 12  7, ID 20188, Window 12  34
+052.379 Send DATA 12 12, ID 10188, Window  5, PHL Queue 4
+052.626 Send DATA 13 12, ID 10189, Window  6, PHL Queue 38
+052.658 Recv DATA 13  8, ID 20189, Window 13  35
+052.907 Send DATA 14 13, ID 10190, Window  6, PHL Queue 4
+052.910 Recv DATA 14  9, ID 20190, Window 14  36
+053.140 Recv DATA 15 10, ID 20191, Window 15  37
+053.172 Send DATA 15 15, ID 10191, Window  5, PHL Queue 2
+053.432 Send DATA 16 15, ID 10192, Window  6, PHL Queue 10
+053.438 Recv DATA 16 11, ID 20192, Window 16  38
+053.681 Send DATA 17 16, ID 10193, Window  6, PHL Queue 40
+053.712 Recv DATA 17 12, ID 20193, Window 17  39
+053.950 Send DATA 18 17, ID 10194, Window  6, PHL Queue 30
+053.955 Recv DATA 18 13, ID 20194, Window 18  40
+053.958 .... 195 packets received, 7584 bps, 94.80%, Err 5 (1.2e-005)

@@ -1,0 +1,49 @@
+﻿  account.cpp
+  account.h
+  Behavior.cpp
+  Business.cpp
+  Comsumer.cpp
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Comsumer.cpp(14,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+  Products.cpp
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(13,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(81,44): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(81,44): warning C4267:         with
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(81,44): warning C4267:         [
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(81,44): warning C4267:             _Ty=int
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(81,44): warning C4267:         ]
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(82,42): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(82,42): warning C4267:         with
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(82,42): warning C4267:         [
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(82,42): warning C4267:             _Ty=int
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(82,42): warning C4267:         ]
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(83,46): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(83,46): warning C4267:         with
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(83,46): warning C4267:         [
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(83,46): warning C4267:             _Ty=int
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(83,46): warning C4267:         ]
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(99,50): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(99,50): warning C4267:         with
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(99,50): warning C4267:         [
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(99,50): warning C4267:             _Ty=int
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(99,50): warning C4267:         ]
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(100,48): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(100,48): warning C4267:         with
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(100,48): warning C4267:         [
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(100,48): warning C4267:             _Ty=int
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(100,48): warning C4267:         ]
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(101,52): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(101,52): warning C4267:         with
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(101,52): warning C4267:         [
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(101,52): warning C4267:             _Ty=int
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(101,52): warning C4267:         ]
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\Products.cpp(263,45): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  ProductsIfo.cpp
+  sheet.cpp
+  Tourist.cpp
+  正在生成代码...
+D:\coding\cpp\E-commerce_trading_platform\E-commerce_trading_platform\ProductsIfo.cpp(9,1): warning C4172: 返回局部变量或临时变量的地址
+x64\Debug\account.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  E-commerce_trading_platform.vcxproj -> D:\coding\cpp\E-commerce_trading_platform\x64\Debug\E-commerce_trading_platform.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。

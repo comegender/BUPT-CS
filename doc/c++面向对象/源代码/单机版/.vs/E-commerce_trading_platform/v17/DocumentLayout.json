@@ -1,0 +1,317 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\coding\\cpp\\E-commerce_trading_platform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Discaonut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\Discaonut.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Sheets.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\Sheets.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Products.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\Products.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\ProductsIfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\ProductsIfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Business.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\Business.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Business.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\Business.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Behavior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\Behavior.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\account.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Comsumer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\Comsumer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Sheet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\Sheet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\sheet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\sheet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\ProductsIfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\ProductsIfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Behavior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\Behavior.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\account.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Products.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\Products.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Comsumer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\Comsumer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\shopping_cart.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{295B0533-9833-4496-A13B-5A7C568E5EAF}|E-commerce_trading_platform\\E-commerce_trading_platform.vcxproj|solutionrelative:E-commerce_trading_platform\\shopping_cart.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "account.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\account.h",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\account.h",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\account.h",
+              "RelativeToolTip": "E-commerce_trading_platform\\account.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-01T02:35:26.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Business.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Business.cpp",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\Business.cpp",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Business.cpp",
+              "RelativeToolTip": "E-commerce_trading_platform\\Business.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:09:52.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sheets.csv",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Sheets.csv",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\Sheets.csv",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Sheets.csv",
+              "RelativeToolTip": "E-commerce_trading_platform\\Sheets.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-26T15:09:07.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Products.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Products.cpp",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\Products.cpp",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Products.cpp",
+              "RelativeToolTip": "E-commerce_trading_platform\\Products.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwLIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T15:01:46.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Discaonut.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Discaonut.h",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\Discaonut.h",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Discaonut.h",
+              "RelativeToolTip": "E-commerce_trading_platform\\Discaonut.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T14:59:12.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Behavior.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Behavior.h",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\Behavior.h",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Behavior.h",
+              "RelativeToolTip": "E-commerce_trading_platform\\Behavior.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-23T13:48:32.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comsumer.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Comsumer.h",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\Comsumer.h",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Comsumer.h",
+              "RelativeToolTip": "E-commerce_trading_platform\\Comsumer.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-04T14:47:55.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Business.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Business.h",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\Business.h",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Business.h",
+              "RelativeToolTip": "E-commerce_trading_platform\\Business.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-04T14:47:21.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Products.h",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\Products.h",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Products.h",
+              "RelativeToolTip": "E-commerce_trading_platform\\Products.h",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAEYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-04T14:48:03.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsIfo.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\ProductsIfo.h",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\ProductsIfo.h",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\ProductsIfo.h",
+              "RelativeToolTip": "E-commerce_trading_platform\\ProductsIfo.h",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvwYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-26T15:20:08.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "account.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\account.cpp",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\account.cpp",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\account.cpp",
+              "RelativeToolTip": "E-commerce_trading_platform\\account.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvx0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-27T15:12:52.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsIfo.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\ProductsIfo.cpp",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\ProductsIfo.cpp",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\ProductsIfo.cpp",
+              "RelativeToolTip": "E-commerce_trading_platform\\ProductsIfo.cpp",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T02:42:05.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sheet.h",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Sheet.h",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\Sheet.h",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Sheet.h",
+              "RelativeToolTip": "E-commerce_trading_platform\\Sheet.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-01T02:42:38.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Behavior.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Behavior.cpp",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\Behavior.cpp",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Behavior.cpp",
+              "RelativeToolTip": "E-commerce_trading_platform\\Behavior.cpp",
+              "ViewState": "AQIAAOYAAAAAAAAAAADwv/QAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T13:49:09.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "shopping_cart.csv",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\shopping_cart.csv",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\shopping_cart.csv",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\shopping_cart.csv",
+              "RelativeToolTip": "E-commerce_trading_platform\\shopping_cart.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-05-26T14:57:36.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Comsumer.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Comsumer.cpp",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\Comsumer.cpp",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\Comsumer.cpp",
+              "RelativeToolTip": "E-commerce_trading_platform\\Comsumer.cpp",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-26T14:55:26.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "sheet.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\sheet.cpp",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\sheet.cpp",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\sheet.cpp",
+              "RelativeToolTip": "E-commerce_trading_platform\\sheet.cpp",
+              "ViewState": "AQIAAGQAAAAAAAAAAADwv3IAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-01T02:42:41.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\main.cpp",
+              "RelativeDocumentMoniker": "E-commerce_trading_platform\\main.cpp",
+              "ToolTip": "D:\\coding\\cpp\\E-commerce_trading_platform\\E-commerce_trading_platform\\main.cpp",
+              "RelativeToolTip": "E-commerce_trading_platform\\main.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-23T13:48:01.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

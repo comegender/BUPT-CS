@@ -1,0 +1,37 @@
+% m22.m - 定日镜尺寸优化（网格搜索法）
+clear;
+load('optimal_D.mat', 'optimal_D');
+load('s_in.mat'); load('alphas.mat');
+
+%% 参数初始化
+h = 6; D = optimal_D;
+results = [];
+
+%% 网格搜索
+for H = 2:8
+    for W = H:8  % 约束条件W≥H
+        %% 定日镜场布局
+        dr = W + 5;  % 最小间距
+        R = 100:dr:(350+D);
+        
+        % 极坐标布置（同m21）
+        x = []; y = [];
+        for i = 1:length(R)
+            beta = dr/R(i);
+            theta = ((-1)^i*beta/4 + asin((R(i)^2+D^2-350^2)/(2*R(i)*D)) + beta/2) : beta : (pi - asin((R(i)^2+D^2-350^2)/(2*R(i)*D)) - beta/4);
+            x = [x, R(i)*cos(theta)];
+            y = [y, R(i)*sin(theta)];
+        end
+        N=length(x);
+        
+        %% 计算目标函数
+        location = [x', y'-D];
+        [year_EF, ~] = Objfun2(H, W, h, D, location);
+        results = [results; W, H, year_EF];
+    end
+end
+
+%% 最优解提取
+[~, idx] = max(results(:,3));
+optimal_WH = results(idx,1:2);
+save('optimal_WH.mat', 'optimal_WH','N');

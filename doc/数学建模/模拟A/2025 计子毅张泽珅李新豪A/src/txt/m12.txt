@@ -1,0 +1,137 @@
+% m12.m - 定日镜场效率指标计算模块
+clear
+load Q1.mat % 加载问题1的计算结果
+
+%% 余弦效率计算
+eta_cos = zeros(12,5,size(location,1));
+for i = 1:12 % 月份循环
+    for j = 1:5 % 时间点循环
+        % 计算法向量与入射向量的点积
+        n_dingri = s_in(i,3*(j-1)+(1:3)) - s_reflect;
+        n_dingri = n_dingri./sqrt(n_dingri(:,1).^2 + n_dingri(:,2).^2 + n_dingri(:,3).^2);
+        
+        for k = 1:size(location,1)
+            eta_cos(i,j,k) = abs(dot(n_dingri(k,:), s_in(i,3*(j-1)+(1:3))));
+        end
+    end
+end
+
+% 计算月平均和年平均余弦效率
+month_eta_cos = zeros(12,1);
+for i = 1:12
+    month_eta_cos(i) = sum(eta_cos(i,:,:),'all')/(5*size(location,1));
+end
+year_eta_cos = mean(month_eta_cos);
+
+%% 阴影遮挡效率计算
+eta_sb = 1 - shade*5/(xid*yid*8); % 基于栅格化结果计算
+
+% 月平均和年平均计算
+month_eta_sb = zeros(12,1);
+for i = 1:12
+    month_eta_sb(i) = sum(eta_sb(i,:,:),'all')/(5*size(location,1));
+end
+year_eta_sb = mean(month_eta_sb);
+
+%% 大气透射率计算
+tmp = loc_dingri(:,1).^2 + loc_dingri(:,2).^2 + (loc_dingri(:,3)-loc_jire(3)).^2;
+d_HR = sqrt(tmp);
+tmp1 = 0.99321 - 0.0001176*d_HR + 1.97e-8*d_HR.^2;
+
+eta_at = zeros(12,5,size(location,1));
+for i = 1:size(location,1)
+    eta_at(:,:,i) = tmp1(i)*ones(12,5);
+end
+
+%% 截断效率处理
+eta_trunc = ntrunc;
+infid = []; % 记录无效值位置
+cnt = 0;
+
+% 统计有效值
+for i = 1:12
+    for j = 1:5
+        for k = 1:size(location,1)
+            if eta_trunc(i,j,k) ~= inf
+                cnt = cnt + eta_trunc(i,j,k);
+            else
+                infid = [infid; i j k];
+            end
+        end
+    end
+end
+
+% 用平均值替换无效值
+N = size(infid,1);
+ave = cnt/(12 * 5*size(location,1)-N);
+for i = 1:N
+    eta_trunc(infid(i,1), infid(i,2), infid(i,3)) = ave;
+end
+
+% 计算月平均和年平均
+month_eta_trunc = zeros(12,1);
+for i = 1:12
+    tmp = eta_trunc(i,:,:);
+    tmp(tmp==inf) = [];
+    month_eta_trunc(i) = sum(tmp,'all')/numel(tmp);
+end
+year_eta_trunc = mean(month_eta_trunc);
+
+%% 镜面反射率
+eta_ref = 0.92*ones(12,5,size(location,1));
+
+%% 光学效率计算
+eta = eta_sb .* eta_cos .* eta_at .* eta_trunc .* eta_ref;
+
+% 月平均和年平均计算
+month_eta = zeros(12,1);
+for i = 1:12
+    tmp = eta(i,:,:);
+    month_eta(i) = sum(tmp,'all')/numel(tmp);
+end
+year_eta = mean(month_eta);
+
+%% 输出热功率计算
+% 计算DNI（法向直接辐射照度）
+G0 = 1.366; % 太阳常数
+altitude = 3; % 海拔(km)
+a = 0.4237 - 0.00821*(6-altitude)^2;
+b = 0.5055 + 0.00595*(6.5-altitude)^2;
+c = 0.2711 + 0.01858*(2.5-altitude)^2;
+tmp2 = G0*(a + b*exp(-c./sin(alphas))); % 12x5矩阵
+
+DNI = zeros(12,5,size(location,1));
+for i = 1:size(location,1)
+    DNI(:,:,i) = tmp2;
+end
+
+% 定日镜面积
+A = W * H * ones(12,5,size(location,1));
+
+% 瞬时热功率计算
+E = DNI .* A .* eta; % 每块定日镜的热功率
+Ef = sum(E,3); % 镜场总瞬时热功率
+
+% 年平均热功率
+year_Ef = sum(Ef,'all')/(12 * 5); % 转换为MW
+
+% 单位面积输出功率
+tmp = sum(A,3);
+Ef_per_area = Ef / tmp(1); % kW/m2
+
+% 每块定日镜年平均输出
+mirror_year_ave = zeros(size(location,1),1);
+for i = 1:size(location,1)
+    mirror_year_ave(i) = sum(E(:,:,i),'all')/(12 * 5);
+end
+
+%% 结果保存
+save('Q1_results.mat', 'year_eta_cos', 'year_eta_sb', 'year_eta_trunc', ...
+     'year_eta', 'year_Ef', 'Ef_per_area', 'month_eta_cos', 'month_eta_sb', ...
+     'month_eta_trunc', 'month_eta', 'mirror_year_ave');
+
+%% 可视化（可选）
+figure
+scatter(location(:,1), location(:,2), [], mirror_year_ave);
+title('每块定日镜年平均输出热功率(kW)');
+colorbar;

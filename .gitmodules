@@ -1,0 +1,3 @@
+[submodule "doc/doc/程序设计实践/DSL-Agent"]
+	path = doc/doc/程序设计实践/DSL-Agent
+	url = https://github.com/comegender/DSL-Agent.git

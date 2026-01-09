@@ -1,0 +1,8 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=0042A3C0
+eax=2245B000 ebx=00000000 ecx=02B8C070 edx=010F0470 esi=01931608 edi=00000001
+ebp=800CA000 esp=2238ED00 program=E:\BUPT\doc\计网实践\Dynamips模拟器完整版\Dynamips@N.L.F.E\bin\dynamips\dynamips-w2000.exe, pid 10948, thread unknown (0x50EC)
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+  75286 [unknown (0x50EC)] dynamips-w2000 10948 _cygtls::handle_exceptions: Exception: STATUS_ACCESS_VIOLATION
+  88501 [unknown (0x50EC)] dynamips-w2000 10948 _cygtls::handle_exceptions: Error while dumping state (probably corrupted stack)
